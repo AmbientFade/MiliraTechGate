@@ -19,6 +19,6 @@ The main problem with the Milira race mod was that they appearing too early, esp
 - Put "MiliraTechGate" folder into "Mods" folder in game directory.
 - Place it lower Milira Race mod and any other addons and patches for it. Use RimSort or in-game mod menu.
 
-DISCLAIMER
+# DISCLAIMER
 
 This mod was created using the Claude AI and tested on my legal copy of the game.
